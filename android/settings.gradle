@@ -1,0 +1,7 @@
+rootProject.name = 'NiortRow'
+
+include ':app'
+include ':react-native-sensors'
+project(':react-native-sensors').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-sensors/android')
+include ':react-native-google-location'
+project(':react-native-google-location').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-google-location/android/app')

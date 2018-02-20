@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/tbleuse/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_9560034715a36057fd49ef7c70e6b5b7d9ae1e0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.3.0_aa985863b92acd490f7e76ff531f07f5329f8b15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_2de783a7684f766af82730e62b129a2ced3fa144.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tbleuse/android/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_44cb442aa21e17cd2657ff01a68a1d76e8600ea7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_d8e55b3458f2017bed34208c531a04d46cb5eb47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
+        <dex dex="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.3.0_630fff0afc54656efb4596f0b288acbd5e0179d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_648b487194d1fcb3218de926cb9864f8dab6333a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tbleuse/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_adc704f794b98fd4e2c4da9799fe332899ea5482.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_3087db416f8c5559052dfdb3326764f797ab2e85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tbleuse/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_f638897bd868699e0a2e454cc675c2489fc9b8bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tbleuse/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_f9be531d3ec87570b90d18e34f6693451dd20daa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_ff55b69708b1167f34f6e5f24f8dd303eb348cd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_4ab9646c6fb763411b97ba414039cbd19a2fc590.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_96afe64f9431945cb36d144cbdab156d0d55259d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6d9ed9a288364688e7fcf6704776284dac1eb42e">
+        <dex dex="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-8.3.0_a2995027f171a89fb904b3d88c38cfd0d7b9a1b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="77f9593d979f4347344be233bd0d888315f79517">
+        <dex dex="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-8.3.0_2ca3dd300a322a1db869325a18f3b6d4c2b45c8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/exploded-aar/NiortRow/react-native-sensors/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fc0ca256d97d4570f56ddf2ff0c8eada9effa9fe">
+        <dex dex="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/pre-dexed/debug/NiortRow-react-native-sensors-unspecified_99e3730e63e50a3cac9ffc6f9a019979d923223a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tbleuse/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_a7fdaa377a204aef074201849edf192a37a47b3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_474c08f8bde4f2a71d0c01c6da6aec3287877d47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_b63ccaccd33b4174c100e626177c08cca93c0489.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tbleuse/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_c34e50e158704dfcc3c9d19d738630daa752acf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_0c971c3633c7d49b70d72ba1ac122d5dfe1d321f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tbleuse/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_aa726c1b96f074f0a8b96abd3a739c1cee83c7fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_7ba8bbb9454ecf6a347ff5ca6bbc9f50e5ce83e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
+        <dex dex="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.52.0_884506f5ede98d749acdcaec34ddd8da1c9b699c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/exploded-aar/NiortRow/react-native-google-location/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dfdb1896c64a415eaf72d2853d6380f814b2d1e3">
+        <dex dex="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/pre-dexed/debug/NiortRow-react-native-google-location-unspecified_5027b3f04cbd3a91d3799c8387975b656eb6f4c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_486bab2512a6b9907d7240de03aa1937afaeed8f.jar" />
+    </item>
+
+</items>

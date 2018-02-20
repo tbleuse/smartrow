@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/tbleuse/mobile/SmartRow/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/tbleuse/mobile/SmartRow/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/tbleuse/mobile/NiortRow/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/tbleuse/mobile/NiortRow/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]
